@@ -52,15 +52,3 @@ origin = https://github.com/mainsail-crew/sonar.git
 primary_branch = main
 managed_services = sonar
 
-[update_manager pa_cal]
-type = git_repo
-path = ~/klipper-pa_cal
-origin = https://github.com/ksanislo/klipper-pa_cal.git
-is_system_service = False
-
-[update_manager led_effect]
-type = git_repo
-path = ~/klipper-led_effect
-origin = https://github.com/julianschill/klipper-led_effect.git
-is_system_service = False
-
