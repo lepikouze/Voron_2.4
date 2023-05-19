@@ -2,7 +2,7 @@
 
 This is the Klipper configuration for my Voron V2.4, V2-4098.
 
-It uses my [common macros](https://github.com/simplisticton/common-macros) too, which are shared with [Workbench](https://github.com/simplisticton/v0-workbench-config), my Voron V0.
+It uses my [common macros](https://github.com/martinbranda/common-macros) too, which are shared with [V0 1850](https://github.com/martinbranda/Voron_V0), my Voron V0.
 
 Feel free to use anything you find here, but remember, if it breaks, you get to keep the pieces.
 
