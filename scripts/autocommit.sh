@@ -55,7 +55,7 @@ push_config(){
   git add .
   current_date=$(date +"%Y-%m-%d %T")
   git commit -m "Autocommit from $current_date" -m "$m1" -m "$m2" -m "$m3" -m "$m4" -m "$m5"
-  git push "git@github.com:martinbranda/Voron_2.4.git"
+  git push "git@github.com:lepikouze/Voron_2.4.git"
 }
 
 grab_version
